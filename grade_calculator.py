@@ -125,7 +125,7 @@ def redo():
 # ---------- Window ----------
 root = tk.Tk()
 root.title("Student Grade Calculator")
-root.geometry("420x760")
+root.geometry("760x760")
 root.resizable(False, False)
 root.config(bg=BG)
 
